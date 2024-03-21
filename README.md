@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, I'm Basanta Thapa</h1>
 <h3 align="center">A passionate developer from Nepal</h3>
 
-<p align="right"> <img src="https://www.chawtechsolutions.com/wp-content/uploads/2019/03/developer-dribbble.gif" /> </p>
+<p align="left"> <img src="https://cdn.dribbble.com/users/1030477/screenshots/3424593/working.gif" /> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lebit009&label=Profile%20views&color=0e75b6&style=flat" alt="lebit009" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lebit009" alt="lebit009" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
