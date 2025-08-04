@@ -12,17 +12,6 @@ I'm a recent graduate with a Master of Information Technology and Systems (MITS)
 [![My Skills](https://skillicons.dev/icons?i=py,github,git,mongodb,mysql,java,js,nodejs,react,express,html,css,bootstrap,php,androidstudio,tailwindcss,materialui,fastapi,postman,postgres,figma,vscode,c,cs,cpp,oop,xd)](https://skillicons.dev)
 
 
----
-
-## 🧑‍💻 Projects & Work
-
-- 💼 **Internship Project**: Built a web application to collect data from companies and generate insightful reports with visualizations.
-- 📊 **Data Dashboard**: Designed a dashboard using React and Chart.js for interactive insights.
-- 📱 **Mobile App Prototype**: Developed a prototype app using Android Studio and Python backend.
-
-More projects are on the way. Stay tuned!
-
----
 
 ## 🌱 Currently Learning
 
