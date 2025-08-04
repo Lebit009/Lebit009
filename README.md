@@ -35,9 +35,10 @@ More projects are on the way. Stay tuned!
 ## 📫 Let's Connect
 
 - 📧 Email: lebitmagar@gmail.com
-- 🌍 LinkedIn: [linkedin.com/in/your-link](#) <!-- Replace with your actual LinkedIn link -->
-- 🌐 Portfolio: [your-portfolio-link.com](#) <!-- Replace with your actual portfolio link -->
-
+- 🌍 LinkedIn: https://www.linkedin.com/in/basanta0lebitmgr/ 
+- 🌐 Portfolio: https://myportfoliolebit.netlify.app/
+  
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=footer" alt="footer"/>
 ---
 > 💬 **Random Dev Joke**
 
