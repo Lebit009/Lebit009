@@ -3,23 +3,6 @@
 I'm a recent graduate with a Master of Information Technology and Systems (MITS), passionate about building web applications, exploring data, and creating meaningful digital experiences. I enjoy working on front-end development using React and integrating it with back-end technologies like Python and Node.js.
 
 ---
-## ⚛️ My React Component
-
-```jsx
-// HelloWorld.jsx
-import React from 'react';
-
-const HelloWorld = () => {
-  return (
-    <div>
-      <h1>Hello, I'm Basanta 👋</h1>
-      <p>Front-End Developer | React Enthusiast | Lifelong Learner</p>
-    </div>
-  );
-};
-
-export default HelloWorld;
----
 
 ## 🔧 Tech Stack & Tools
 
