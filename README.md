@@ -1,10 +1,8 @@
-# 👋 Hi, I'm Basanta Thapa
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cambria&pause=1000&color=F70000&width=435&lines=Hello%2C+I'm+Basanta+Thapa)](https://git.io/typing-svg)
 
 I'm a recent graduate with a Master of Information Technology and Systems (MITS), passionate about building web applications, exploring data, and creating meaningful digital experiences. I enjoy working on front-end development using React and integrating it with back-end technologies like Python and Node.js.
 
 ---
-
-## 🔧 Tech Stack & Tools
 
 ## 🚀 Skills
 
@@ -23,6 +21,8 @@ I'm a recent graduate with a Master of Information Technology and Systems (MITS)
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="Adobe XD" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/figma-1.svg" alt="Figma" width="40" height="40"/>
 </p>
 
 
