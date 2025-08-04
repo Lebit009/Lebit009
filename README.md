@@ -7,7 +7,7 @@ I'm a recent graduate with a Master of Information Technology and Systems (MITS)
 
 ## 🚀 Skills
 
-[![My Skills](https://skillicons.dev/icons?i=py,github,git,mongodb,mysql,java,js,nodejs,react,express,html,css,bootstrap,php,androidstudio,tailwindcss,materialui,fastapi,postman,postgres,figma,vscode,c,cs,cpp,oop)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,github,git,mongodb,mysql,java,js,nodejs,react,express,html,css,bootstrap,php,androidstudio,tailwindcss,materialui,fastapi,postman,postgres,figma,vscode,c,cs,cpp,oop,adobexd)](https://skillicons.dev)
 
 
 ---
