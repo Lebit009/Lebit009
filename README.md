@@ -1,5 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cambria&pause=1000&color=F70000&width=435&lines=Hello%2C+I'm+Basanta+Thapa)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=35&pause=1000&width=435&lines=Hello%2C+I'm+Basanta+Thapa)](https://git.io/typing-svg)
 I'm a recent graduate with a Master of Information Technology and Systems (MITS), passionate about building web applications, exploring data, and creating meaningful digital experiences. I enjoy working on front-end development using React and integrating it with back-end technologies like Python and Node.js.
 
 ---
@@ -40,10 +39,13 @@ More projects are on the way. Stay tuned!
 
 ## 🌱 Currently Learning
 
-- TypeScript
 - Advanced React patterns
-- API integration
 - UI/UX best practices
+- Data Analytics
+
+![React](https://img.shields.io/badge/-Advanced_React-61DAFB?logo=react&logoColor=white&style=for-the-badge)
+![UI/UX](https://img.shields.io/badge/-UI%2FUX_Design-F24E1E?logo=adobe&logoColor=white&style=for-the-badge)
+![Analytics](https://img.shields.io/badge/-Data_Analytics-FF6F00?logo=google-analytics&logoColor=white&style=for-the-badge)
 
 ---
 
