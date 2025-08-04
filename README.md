@@ -38,10 +38,12 @@ More projects are on the way. Stay tuned!
 - 🌍 LinkedIn: https://www.linkedin.com/in/basanta0lebitmgr/ 
 - 🌐 Portfolio: https://myportfoliolebit.netlify.app/
   
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=footer" alt="footer"/>
+  
 ---
 > 💬 **Random Dev Joke**
 
 Why do programmers prefer dark mode?
 
-Because the light attracts bugs. 🐛😎
+Because the light attracts bugs. 🐛
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=footer" alt="footer"/>
