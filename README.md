@@ -51,5 +51,8 @@ More projects are on the way. Stay tuned!
 - 🌐 Portfolio: [your-portfolio-link.com](#) <!-- Replace with your actual portfolio link -->
 
 ---
+> 💬 **Random Dev Joke**
 
-_Thanks for visiting my GitHub! Feel free to explore my repositories or reach out for collaboration opportunities._
+Why do programmers prefer dark mode?
+
+Because the light attracts bugs. 🐛😎
