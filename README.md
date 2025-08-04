@@ -1,7 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=35&pause=1000&width=435&lines=Hello%2C+I'm+Basanta+Thapa)](https://git.io/typing-svg)
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=4000&pause=800&color=FF6F61&width=450&lines=Hey+there%2C+I%E2%80%99m+Shubham+Sharma;Passionate+Software+Developer;Building+solutions+with+code" alt="Typing SVG Animation"/>
-</a>
+
 
 I'm a recent graduate with a Master of Information Technology and Systems (MITS), passionate about building web applications, exploring data, and creating meaningful digital experiences. I enjoy working on front-end development using React and integrating it with back-end technologies like Python and Node.js.
 
