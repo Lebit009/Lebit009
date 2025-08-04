@@ -23,13 +23,13 @@ I'm a recent graduate with a Master of Information Technology and Systems (MITS)
 
 ## 📫 Let's Connect
 
-- 📧 Email: lebitmagar@gmail.com
-- 🌍 LinkedIn: https://www.linkedin.com/in/basanta0lebitmgr/ 
-- 🌐 Portfolio: https://myportfoliolebit.netlify.app/
+📧 Email: lebitmagar@gmail.com
+🌍 LinkedIn: https://www.linkedin.com/in/basanta0lebitmgr/ 
+🌐 Portfolio: https://myportfoliolebit.netlify.app/
   
   
 ---
-> 💬 **Random Dev Joke**
+💬 **Random Dev Joke**
 
 Why do programmers prefer dark mode?
 
