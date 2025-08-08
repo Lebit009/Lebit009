@@ -30,7 +30,8 @@ I'm a recent graduate with a Master of Information Technology and Systems (MITS)
   
 ---
 💬 **Random Dev Joke**
-[Click here to see a random dev joke](https://dev-joke-1.onrender.com)
+
+[Click to see!](https://dev-joke-1.onrender.com)
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=footer" alt="footer"/>
