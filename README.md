@@ -35,7 +35,7 @@ I'm a recent graduate with a Master of Information Technology and Systems (MITS)
 
 ## My GitHub Stats
 
-![Your Name's github stats](https://github-readme-stats.vercel.app/api?username=lesama&show_icons=true)
+![Your Name's github stats](https://github-readme-stats.vercel.app/api?username=lebit009&show_icons=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lesama&layout=compact)
 
