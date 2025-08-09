@@ -33,10 +33,4 @@ I'm a recent graduate with a Master of Information Technology and Systems (MITS)
 
 [Click to see!](https://dev-joke-1.onrender.com)
 
-## My GitHub Stats
-
-![Your Name's github stats](https://github-readme-stats.vercel.app/api?username=lebit009&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lesama&layout=compact)
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=footer" alt="footer"/>
