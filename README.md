@@ -9,7 +9,7 @@ I'm a recent graduate with a Master of Information Technology and Systems (MITS)
 
 ## 🚀 Skills
 
-[![My Skills](https://skillicons.dev/icons?i=py,github,git,mongodb,mysql,java,js,nodejs,react,express,html,css,bootstrap,php,androidstudio,tailwindcss,materialui,fastapi,postman,postgres,figma,vscode,c,cs,cpp,oop,xd)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,github,git,mongodb,mysql,js,nodejs,react,html,css,bootstrap,php,materialui,postman,postgres,figma,vscode,xd)](https://skillicons.dev)
 
 
 
@@ -26,6 +26,7 @@ I'm a recent graduate with a Master of Information Technology and Systems (MITS)
 - 📧 Email: lebitmagar@gmail.com
 - 🌍 LinkedIn: https://www.linkedin.com/in/basanta0lebitmgr/ 
 - 🌐 Portfolio: https://myportfoliolebit.netlify.app/
+- https://automotivehubcommerce.netlify.app/
   
   
 ---
